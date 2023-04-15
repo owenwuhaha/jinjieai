@@ -1,11 +1,8 @@
 # jinjieai
 一个研究规划设计行业AI应用的神秘组织
 <h1 align="center">
-⚡️ChatGPT Shortcut
+⚡️规划设计行业AI应用探索
 </h1>
-<p align="center">
-    <a href="./README-en.md">English</a> | 中文
-</p>
 <p align="center">
     <em>让生产力加倍的 ChatGPT 快捷指令</em>
 </p>
