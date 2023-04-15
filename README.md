@@ -1,5 +1,3 @@
-# jinjieai
-一个研究规划设计行业AI应用的神秘组织
 <h1 align="center">
 ⚡️规划设计行业AI应用探索
 </h1>
