@@ -13,6 +13,7 @@
 - 🆕 **定期更新**：ChatGPT Shortcut 的提示词来自网络精选、投稿和 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)，定期进行更新，为用户提供新的提示词和思路。
 - 🇨🇳 **中文优化**：虽然提示词仍然使用英文，但提供了中文翻译，支持默认中文回复，方便中文用户理解和使用。
 - 📦 **AI工具大全**：<https://nav.newzone.top/>
+-  **ChatGPT提示词工具**：<https://www.aishort.top/>
 
 ## 🤔 常见问题
 
